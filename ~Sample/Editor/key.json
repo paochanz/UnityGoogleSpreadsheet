@@ -1,0 +1,28 @@
+[
+  {
+    "name": "GoogleAppID",
+    "key": "Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "ref": "https://script.google.com/home/projects/",
+    "op": "Deploy > Manage deployments > Deploy ID"
+  },
+  {
+    "name": "GoogleClientID",
+    "key": "7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
+    "ref": "https://console.cloud.google.com/apis/credentials/oauthclient/"
+  },
+  {
+    "name": "GoogleClientSecret",
+    "key": "Gxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "ref": "https://console.cloud.google.com/apis/credentials/oauthclient/"
+  },
+  {
+    "name": "GSSAppURL",
+    "key": "https://script.google.com/macros/s/Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/exec",
+    "ref": "https://script.google.com/home/projects/",
+    "op": "Deploy > Manage deployments > Web App URL"
+  },
+  {
+    "name": "GoogleRefreshToken",
+    "key": "1//xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  }
+]
