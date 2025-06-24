@@ -16,14 +16,14 @@ It should work with other versions, but we haven't tested it.
 2. Add this line in `dependencies`.
 ```
 "dependencies": {
-    "studio.shirokurohitsuji.unity-googlespreadsheet": "https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet.git"
+    "com.paochanz.unity-googlespreadsheet": "https://github.com/paochanz/UnityGoogleSpreadsheet.git"
 }
 ```
 3. UPM should install the package.
 
 ## How to Use
 
-1. See [Sample](https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet/tree/main/~Sample) to create Editor Window.
+1. See [Sample](https://github.com/paochanz/UnityGoogleSpreadsheet/tree/main/~Sample) to create Editor Window.
 2. Create Google App Script like below to get JSON data.
 ```typescript
 function doGet(e) {
@@ -68,8 +68,8 @@ function _getBook(book_id){
 
 ## Author
 
-[SHIROKUROHTISUJI](https://shirokurohitsuji.studio/)
+[PAOCHANZ](https://paochanz.com/)
 
 ## License
 
-**UnityGoogleSpreadsheet** is under [MIT license](https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet/blob/main/LICENSE.md).
+**UnityGoogleSpreadsheet** is under [MIT license](https://github.com/paochanz/UnityGoogleSpreadsheet/blob/main/LICENSE.md).

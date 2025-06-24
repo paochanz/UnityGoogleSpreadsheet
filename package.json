@@ -1,11 +1,11 @@
 {
-  "name": "studio.shirokurohitsuji.unity-googlespreadsheet",
+  "name": "com.paochanz.unity-googlespreadsheet",
   "displayName": "UnityGoogleSpreadsheet",
   "description": "Get Google Spreadsheet data from Unity Editor.",
   "version": "1.0.0",
   "author": {
-    "name": "Shirokurohitsuji",
-    "url": "https://shirokurohitsuji.studio/"
+    "name": "paochanz",
+    "url": "https://paochanz.com/"
   },
   "unity": "2023.2",
   "unityRelease": "16f1",
@@ -13,15 +13,15 @@
     "unity"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet#readme",
-  "changelogUrl": "https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet/blob/master/LICENSE.md",
-  "licensesUrl": "https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet/blob/master/CHANGELOG.md",
+  "homepage": "https://github.com/paochanz/UnityGoogleSpreadsheet#readme",
+  "changelogUrl": "https://github.com/paochanz/UnityGoogleSpreadsheet/blob/master/LICENSE.md",
+  "licensesUrl": "https://github.com/paochanz/UnityGoogleSpreadsheet/blob/master/CHANGELOG.md",
   "dependencies": {
     "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
     "com.unity.nuget.newtonsoft-json": "3.2.1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shirokurohitsuji/UnityGoogleSpreadsheet"
+    "url": "https://github.com/paochanz/UnityGoogleSpreadsheet"
   }
 }
